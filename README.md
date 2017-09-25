@@ -1,7 +1,7 @@
 # Previous-Xcode
 Xcode files for building Previous on macOS.
 
-Created with 'cmake -G Xcode', modified in Xcode 9 (9A235) to include /Library/Frameworks.
+Created with `cmake -G Xcode`, modified in Xcode 9 (9A235) to include /Library/Frameworks.
 
 # Use
 
